@@ -1,5 +1,7 @@
 **Hi 👋, I'm Manjunatha K.V
+
 A passionate Python Full stack web developer from Bangalore
+
 🔭 I’m looking to working on Python full stack web developer
 🌱 I’m currently learning Data Structures and Algorithms, Data Science
 👯 I’m looking to collaborate on Python Developer
