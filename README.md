@@ -21,7 +21,9 @@ A passionate Python Full stack web developer from Bangalore
 📄 Know about my experiences file:Manjunatha.pdf
 
 Connect with me:
-https://www.linkedin.com/in/manjunatha-k-v-7a053822b https://www.hackerrank.com/manjunath_kvmc https://leetcode.com/manjunath_kv_/
+https://www.linkedin.com/in/manjunatha-k-v-7a053822b
+https://www.hackerrank.com/manjunath_kvmc
+https://leetcode.com/manjunath_kv_/
 
 Languages and Tools:
 css3 html5 javascript mongodb nodejs python react
