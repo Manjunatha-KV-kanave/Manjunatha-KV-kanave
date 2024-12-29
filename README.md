@@ -1,4 +1,4 @@
-**Hi 👋, I'm Manjunatha K.V
+Hi 👋, I'm Manjunatha K.V
 
 A passionate Python Full stack web developer from Bangalore
 
@@ -12,7 +12,7 @@ A passionate Python Full stack web developer from Bangalore
 
 👨‍💻 All of my projects are available at https://manjunatha-kv.github.io/PORTFOLIO/
 
-📝 I regularly write articles on (Data Science)
+📝 I regularly write articles on (Data structure Algorithm)
 
 💬 Ask me about Python
 
@@ -21,12 +21,13 @@ A passionate Python Full stack web developer from Bangalore
 📄 Know about my experiences file:Manjunatha.pdf
 
 Connect with me:
-https://www.linkedin.com/in/manjunatha-k-v-7a053822b
-https://www.hackerrank.com/manjunath_kvmc
-https://leetcode.com/manjunath_kv_/
+
+LinkendIn = https://www.linkedin.com/in/manjunatha-k-v-7a053822b
+Hacker Rank = https://www.hackerrank.com/manjunath_kvmc
+LeetCode = https://leetcode.com/manjunath_kv_/
 
 Languages and Tools:
-css3 html5 javascript mongodb nodejs python react
+python ,DSA in python ,css3 ,html5, javascript, mongodb.  
 
 manjunatha-kv
 manjunath.kvmc@gmail.com
