@@ -21,9 +21,10 @@ A passionate Python Full stack web developer from Bangalore
 📄 Know about my experiences file:Manjunatha.pdf
 
 Connect with me:
-
 LinkendIn = https://www.linkedin.com/in/manjunatha-k-v-7a053822b
+
 Hacker Rank = https://www.hackerrank.com/manjunath_kvmc
+
 LeetCode = https://leetcode.com/manjunath_kv_/
 
 Languages and Tools:
